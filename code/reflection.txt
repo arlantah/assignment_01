@@ -1,4 +1,4 @@
-This reinforced my existing knowledge about unit tests and writing functions. 
-Using the debugging to my adavntage instead of guessing was a method
-that i had not done before. Usually I would guess and check. I mainly learned about comitiing to git as I had barely used this prior.
-Writing the funtions in bill.py was pretty straightforward.
+In this lab I learned how bill.py connects to the different interfaces like consle.py and dashboard.py.
+The unit tests I had used before and they help verify each function in isolation so you dont have to run it all.
+Using the debugging to my adavntage instead of guessing was a method, 
+I also learned about comitting and pushing to git since I hadnt really done that before. Except setting a breakpoint inside grand_total.

@@ -1,4 +1,6 @@
 In this lab I learned how bill.py connects to the different interfaces like consle.py and dashboard.py.
 The unit tests I had used before and they help verify each function in isolation so you dont have to run it all.
-Using the debugging to my adavntage instead of guessing was a method, 
-I also learned about comitting and pushing to git since I hadnt really done that before. Except setting a breakpoint inside grand_total.
+A major improvement was learning to use the Debugger instead of guessing.
+I also learned about comitting and using version control pushing to git since I hadnt really done that before. Except setting a breakpoint inside grand_total.
+My next steps are to get faster at interpretting assertion messages in unit and intergration tests.
+I should also practice debugging so its the first approach.

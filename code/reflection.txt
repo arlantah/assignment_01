@@ -1,4 +1,4 @@
-Write your reflection here.
-
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from class, and make it actionable.
+This reinforced my existing knowledge about unit tests and writing functions. 
+Using the debugging to my adavntage instead of guessing was a method
+that i had not done before. Usually I would guess and check. I mainly learned about comitiing to git as I had barely used this prior.
+Writing the funtions in bill.py was pretty straightforward.
